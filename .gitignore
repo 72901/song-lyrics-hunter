@@ -1,0 +1,21 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# 音频与歌词产物
+*.flac
+*.mp3
+*.lrc
+*.wav
+
+# 交付目录
+音乐下载/
+output/
+
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
